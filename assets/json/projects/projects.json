@@ -1,0 +1,38 @@
+{
+    "items": [
+        {
+            "img": "/assets/projects/chat_app_1.jpg",
+            "name": "Chatt App",
+            "content1": "Laravel",
+            "content2": "Postgresql database",
+            "content3": "Deployed on Heroku",
+            "content4": "Sign up and Login",
+            "content5": "Authentication"
+        },{
+            "img": "/assets/projects/chat_app_2.jpg",
+            "content1": "Create comment",
+            "content2": "Delete comment",
+            "content3": "Edit comment"
+        },{
+            "img": "/assets/projects/chat_app_3.jpg",
+            "content1": "Profile, Chat views",
+            "content2": "User avatar",
+            "content3": "Logout"
+        },{
+            "img": "/assets/projects/github_search_1.jpg",
+            "name": "Github Search App",
+            "content1": "Angular 2 single page app",
+            "content2": "Github Search API",
+            "content3": "Deployed on Github Pages"
+        },{
+            "img": "/assets/projects/github_search_2.jpg",
+            "content1": "Repository, Code, Issue and User search",
+            "content2": "Full Github search syntax",
+            "content3": "Infinite Scroll"
+        },{
+            "img": "/assets/projects/github_search_3.jpg",
+            "content1": "Google Materialize Design",
+            "content2": "Google card reveal for more information"
+        }
+    ]
+}

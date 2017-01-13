@@ -1,0 +1,37 @@
+{
+    "items": [
+        {
+            "id": "0",
+            "name": "Angular 2 The Complete Guide",
+            "url": "/assets/courses/AngularTheCompleteGuide.jpg"
+        },{
+            "id": "1",
+            "name": "Javascript Understanding The Weird Parts",
+            "url": "/assets/courses/JSUnderstandingTheWeirdParts.jpg"
+        },{
+            "id": "2",
+            "name": "Modern Web Development With Laravel",
+            "url": "/assets/courses/ModernWebDevWithLaravel.jpg"
+        },{
+            "id": "3",
+            "name": "The Complete Javascript Course",
+            "url": "/assets/courses/TheCompleteJSCourse.jpg"
+        },{
+            "id": "4",
+            "name": "The Complete Web Development Course",
+            "url": "/assets/courses/TheCompleteWebDevCourse.jpg"
+        },{
+            "id": "5",
+            "name": "The Web Development Bootcamp",
+            "url": "/assets/courses/TheWebDevBootcamp.jpg"
+        },{
+            "id": "6",
+            "name": "UX & Web Design Fundamentals",
+            "url": "/assets/courses/UXWebDesignFundamentals.jpg"
+        },{
+            "id": "7",
+            "name": "UX & Web Design Master Course",
+            "url": "/assets/courses/UXWebDesignMasterCourse.jpg"
+        }
+    ]
+}

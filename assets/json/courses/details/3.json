@@ -1,0 +1,10 @@
+{
+    "id": "3",
+    "name": "The Complete Javascript Course",
+    "content": [
+        "Gain a deep and true understanding of how JavaScript works behind the scenes.",
+        "Understand and use complex features like the 'this' keyword, function constructors, prototypal inheritance, first-class functions, closures, and more.",
+        "Learn how to organize and structure my code using modules and functions. Because coding is not just writing code, it's also thinking about my code!",
+        "Multiple coding challenges to practice."
+    ]
+}

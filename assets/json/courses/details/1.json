@@ -1,0 +1,12 @@
+{
+    "id": "1",
+    "name": "Javascript Understanding The Weird Parts",
+    "content": [
+        "Grasp how Javascript works and it's fundamental concepts",
+        "Understand advanced concepts such as closures, prototypal inheritance, IIFEs, and much more.",
+        "Avoid common pitfalls and mistakes other Javascript coders make",
+        "Write solid, good Javascript code",
+        "Drastically improve your ability to debug problems in Javascript.",
+        "Understand the source code of popular Javascript frameworks"
+    ]
+}
