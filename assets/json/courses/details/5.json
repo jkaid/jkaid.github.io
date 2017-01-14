@@ -4,19 +4,12 @@
     "content": [
         "Make REAL web applications using cutting-edge technologies.",
         "Think like a developer. Become an expert at Googling code questions.",
-        "Write web apps with full authentication.",
-        "Implement responsive navbars on websites",
         "Use JavaScript variables, conditionals, loops, functions, arrays, and objects",
         "Write Javascript functions, and understand scope and higher order functions",
-        "Create full-stack web applications from scratch",
         "Manipulate the DOM with vanilla JS and jQuery",
-        "Use NodeJS to write server-side JavaScript",
         "Write complex web apps with multiple models and data associations",
-        "Use Express and MongoDB to create full-stack JS applications",
-        "Use common JS data structures like Arrays and Objects",
-        "Use NPM to install all sorts of useful packages",
-        "Understand the ins and outs of HTTP requests",
-        "Implement user authentication"
+        "Use common JS data structures like Arrays and Objects"
 
-    ]
+    ],
+    "url": "https://www.udemy.com/the-web-developer-bootcamp/"
 }
